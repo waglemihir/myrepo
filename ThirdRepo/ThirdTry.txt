@@ -1,0 +1,5 @@
+touch FileName.txt \n git init
+ git add FileName.txt \n git commit -m SomeString within double quotes \n 
+git remote add origin https://github.com/waglemihir/RepoName.git \n 
+git push -u origin master \n 
+Push an existing repository from command line \n git remote add origin https://github.com/waglemihir/RepoName.git \n git push -u origin master \n 
